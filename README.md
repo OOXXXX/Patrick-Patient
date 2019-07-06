@@ -1,7 +1,7 @@
 PATIENT.2048
 ==========
 
-**A working port of [iOS-2048](https://github.com/austinzheng/iOS-2048) to Apple's Swift language.
+**A working port of [iOS-2048](https://github.com/austinzheng/iOS-2048) to Apple's Swift language.**
 
 
 Thoughts on Swift
